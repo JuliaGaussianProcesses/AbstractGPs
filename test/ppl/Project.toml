@@ -6,7 +6,7 @@ Soss = "8ce77f84-9b61-11e8-39ff-d17a774bf41c"
 Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
 
 [compat]
-Distributions = "0.24"
+Distributions = "0.24, 0.25"
 SampleChainsDynamicHMC = "0.2, 0.3"
 Soss = "0.19, 0.20"
 Turing = "0.16"
