@@ -56,6 +56,9 @@ include("sparse_approximations.jl")
 # LatentGP and LatentFiniteGP objects to accommodate GPs with non-Gaussian likelihoods.
 include("latent_gp.jl")
 
+# GPs whose output is a vector.
+include("vector_valued_gp.jl")
+
 # Plotting utilities.
 include("util/plotting.jl")
 
